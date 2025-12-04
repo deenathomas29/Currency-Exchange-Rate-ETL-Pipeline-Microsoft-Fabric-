@@ -53,7 +53,7 @@ Includes:
 ExchangeRate_Project/
 │
 ├── countries_api_notebook.ipynb
-├── fx_forecast_model.ipynb (optional)
+├
 │
 ├── /pipeline
 │   ├── pipeline_overview.png
